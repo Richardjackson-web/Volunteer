@@ -1,0 +1,68 @@
+@media screen and (max-width: 320px){
+    .circle{
+      position: relative;
+      left: 8px;
+    }
+    .inside{
+      position: relative;
+      bottom: 5rem;
+      left: 15px;
+    }
+    .now{
+      font-size: 30px;
+    }
+    .needy{
+      font-size: 13px !important;  
+    }
+}
+.circle{
+  position: relative;
+  right: 1.5rem;
+}
+.hero{
+    background-image: url(/assets/img/img1.jpg);
+    height: 10rem;
+    background-color: rgb(48, 39, 39);
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h3{
+    text-align: center;
+    padding: 4rem;
+    color: #fff;
+  }
+  .love{
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100% !important;
+  }
+
+  .btn{
+    color: blue;
+    border: 2px solid #000;
+  }
+  .main{
+    background-color: rgb(221, 230, 246);
+    width: 100vw;
+  }
+  footer{
+    height: 100%;
+    width: 100%;
+  }
+  .just{
+    text-align: justify;
+  }
+  .text{
+    color: rgb(8, 1, 33) !important;
+    font-size: 10px;
+  }
+  .text1{
+    font-family: 'Source Sans Pro';
+  }
+  .now{
+    margin-top: 13rem;
+  }
+  .needy{
+    text-align: left;
+  }
